@@ -175,4 +175,5 @@ After making changes, always:
 ## License / Attribution
 
 - Multi‑Axis Framework (`maf.cfg`) is by Rene K. Mueller as indicated in the file header; see that file for licensing and attribution details.
-- Other configuration files in this directory are part of the PETRI dish handling project; apply your project’s preferred license as appropriate.
+- Other configuration files in this directory are part of the PETRI dish handling project
+
